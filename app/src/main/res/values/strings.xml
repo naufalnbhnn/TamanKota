@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Taman Kota</string>
+    <string name="taman_gaul_text">Taman Gaul</string>
+    <string name="button_text">CLICK ME</string>
+    <string name="app_name">Taman Kota</string>
+    <string name="pilih_kota">Pilih Kota</string>
+    <string name="choose_city">Pilih Kota</string>
+    <string name="bandung">Bandung</string>
+    <string name="cimahi">Cimahi</string>
+    <string name="sumedang">Sumedang</string>
+    <string name="select_city">Select a city</string>
+</resources>
+
